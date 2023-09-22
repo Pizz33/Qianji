@@ -50,7 +50,7 @@ cannot get modified linker: exec: "garble": executable file not found in %PATH%
 ## 使用方法
 
 
-1、cobaltstrike都有吧，生成`stageless`的`raw`格式文件，把`beacon.bin`放到和生成器同一目录下，别改名字不然会生成失败
+1、cobaltstrike都有吧，生成`stageless`的`raw`格式文件，把`beacon.bin`和主程序`Qianji_BypassAV.exe`放到同一目录下，别改名字不然会生成失败
 
 ![image](https://github.com/Pizz33/Qianji/assets/88339946/26436df3-f8b4-4dc1-89af-1ac3e7f07e45)
 
