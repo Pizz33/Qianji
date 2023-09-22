@@ -24,11 +24,13 @@
 
 https://golang.google.cn/dl/go1.21.0.windows-amd64.msi 下载安装go
 
-![image-20230906180359735](https://photoscloud.oss-cn-shanghai.aliyuncs.com/image-20230906180359735.png)
+![image](https://github.com/Pizz33/Qianji/assets/88339946/4643a8ea-0eb3-47a5-834a-4cf4538e9c04)
+
 
  https://git-scm.com/download/win  下载安装git
 
-![image-20230822181817441](https://photoscloud.oss-cn-shanghai.aliyuncs.com/image-20230822181817441.png)
+![image](https://github.com/Pizz33/Qianji/assets/88339946/9a049473-cb1a-4005-9521-4576d745d392)
+
 
 下载相关garble等相关依赖，命令如下
 
