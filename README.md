@@ -43,7 +43,7 @@ go get github.com/darkwyrm/b85
 go get github.com/gonutz/ide
 ```
 
-环境未搭建好，可能会出现以下报错，还有其他报错请自行百度
+环境未搭建好，可能会出现以下报错，添加至环境变量即可，还有其他报错请自行百度
 
 ```
 cannot get modified linker: exec: "git": executable file not found in %PATH%
