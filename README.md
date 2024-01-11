@@ -1,6 +1,18 @@
 
 <h1 align="center">千机-红队免杀木马自动生成器 By Hyyrent</h1>
 
+## 停止维护声明
+
+后续开发将作为私有项目使用，停止更新 （主要是楼主懒，想多玩几把心之钢🤡）
+
+如果想要对抗规避国外EDR，建议围绕 `arsenal_kit` 对bin进行二开，shellcode加载器具有局限性
+
+![20240105155414](https://github.com/Pizz33/Qianji/assets/88339946/c58e03c0-0582-477b-bfb4-33230d96b507)
+
+![20240108152922](https://github.com/Pizz33/Qianji/assets/88339946/ebac3bc6-de03-4a7b-8926-12058159daf7)
+
+![20240108152922 (1)](https://github.com/Pizz33/Qianji/assets/88339946/20e49f72-2196-4f26-9a1f-477848721df5)
+
 ## 更新说明
 
 时间 2023/11/15 趁文章上架更新一波基础版，修复之前报毒问题，目前测试360、火绒、def都可以过，但可能过段时间又被加特征了，后续看情况随缘更新吧哈哈，祝各位师傅玩的开心！🤡🤡🤡
@@ -14,7 +26,6 @@
 输出免杀马文件存放在output文件夹里
 
 ![image](https://github.com/Pizz33/Qianji/assets/88339946/863b2dbd-122b-4543-af3e-990ee238357d)
-
 
 ## 声明
 
