@@ -11,7 +11,8 @@
 
 ![20240108152922](https://github.com/Pizz33/Qianji/assets/88339946/ebac3bc6-de03-4a7b-8926-12058159daf7)
 
-![20240108152922 (1)](https://github.com/Pizz33/Qianji/assets/88339946/20e49f72-2196-4f26-9a1f-477848721df5)
+![image-20231228145503024 (2)](https://github.com/Pizz33/Qianji/assets/88339946/a55a12b0-e238-4797-98f8-0db7f2048c62)
+
 
 ## 更新说明
 
